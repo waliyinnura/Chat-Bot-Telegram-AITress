@@ -1,0 +1,7 @@
+*.h5
+*.pdf
+*.psd
+*.json
+*.pkl
+/test
+/spec
